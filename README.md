@@ -1,0 +1,2 @@
+# SoftmaxMultinomialRegression
+Implementation of Softmax multinomial regression
